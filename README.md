@@ -1,2 +1,1 @@
-# leocaizzz.github.io
-This is my final tutorial for cmsc320!
+# This is my final tutorial for cmsc320!
